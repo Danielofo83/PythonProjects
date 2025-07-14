@@ -31,5 +31,4 @@ print(full_name)
 print("Hello, " + full_name.title() + "!")
 
 
-Git Access Token
-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
+
